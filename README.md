@@ -56,13 +56,6 @@ The goal of this study is to evaluate and compare the effectiveness of different
 
 ---
 
-## 📎 Research Paper
-The full research paper is included in this repository.
-
-> 📄 `Missing_Data_Imputation_Research_Paper.pdf`
-
----
-
 
 ## 👩‍💻 Author
 **B. Vyshnavi**  
