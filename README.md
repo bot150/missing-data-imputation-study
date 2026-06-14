@@ -56,10 +56,12 @@ The goal of this study is to evaluate and compare the effectiveness of different
 
 ---
 
+## 👩‍💻 My Contribution
 
-## 👩‍💻 Author
-**B. Vyshnavi**  
-CSE Student  
+- Designed and conducted all experiments  
+- Implemented imputation techniques using Python  
+- Evaluated models across multiple datasets and missingness mechanisms  
+- Analyzed results and derived practical insights
 
 ---
 
